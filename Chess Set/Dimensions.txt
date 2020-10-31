@@ -1,0 +1,4 @@
+block size -> 6cm x 6cm
+King base size -> 4.5 cm diameter
+Pawn base size -> 3cm diameter
+Other pieces base size -> 4 cm diameter
